@@ -1,0 +1,88 @@
+/* Estilos personalizados */
+
+/* Estilos para la columna izquierda */
+.login-form {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para el carrusel */
+  .carousel-inner .item img {
+    width: 100%;
+    height: 300px;
+  }
+  
+  /* Estilos para los títulos de los párrafos */
+  h1, h2, h3, h4, h5 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Estilos para el reloj */
+  #clock {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el contador de vistas */
+  #counter {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .img-fixed-size {
+    height: 200px; /* Ajusta esta altura según tus necesidades */
+    width: 100%; /* Establece un ancho del 100% */
+    object-fit: cover; /* Ajusta el contenido de la imagen sin deformarla */
+  }
+  
+  .columna-izquierda {
+    background-color: red;
+  }
+
+  body {
+    background-color: red; /* Cambia el color de fondo de la página */
+  }
+ 
+  h1 {
+    background-color: #FFFFFF;
+    color: blue; /* Cambia el color del título según el juego */
+    font-family: Arial, sans-serif; /* Cambia el tipo de letra del título */
+    font-size: 28px; /* Cambia el tamaño del título */
+  }
+  
+  h2 {
+    color: green; /* Cambia el color del título según el juego */
+    font-family: "Times New Roman", serif; /* Cambia el tipo de letra del título */
+    font-size: 24px; /* Cambia el tamaño del título */
+    background-color: #FFFFFF;
+  }
+  
+  h3 {
+    background-color: #FFFFFF;
+    color: orange; /* Cambia el color del título según el juego */
+    font-family: Verdana, sans-serif; /* Cambia el tipo de letra del título */
+    font-size: 20px; /* Cambia el tamaño del título */
+  }
+  
+  h4 {
+    background-color: #FFFFFF;
+    color: purple; /* Cambia el color del título según el juego */
+    font-family: "Courier New", monospace; /* Cambia el tipo de letra del título */
+    font-size: 18px; /* Cambia el tamaño del título */
+  }
+  
+  h5 {
+    background-color: #FFFFFF;
+    color: teal; /* Cambia el color del título según el juego */
+    font-family: "Lucida Sans Unicode", sans-serif; /* Cambia el tipo de letra del título */
+    font-size: 16px; /* Cambia el tamaño del título */
+  }
+
+  p {
+    background-color: #FFFFFF; /* Cambia el color de fondo de los párrafos a blanco */
+    color: #333333; /* Cambia el color del texto a un tono oscuro */
+    font-size: 16px; /* Cambia el tamaño de la fuente a 16px */
+    line-height: 1.5; /* Ajusta el espaciado entre líneas a 1.5 veces el tamaño de la fuente */
+    padding: 10px; /* Agrega un relleno interno de 10px a los párrafos */
+  }
